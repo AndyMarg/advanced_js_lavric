@@ -20,6 +20,7 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     ]
 });
 
+// eslint-disable-next-line no-unused-vars
 module.exports = new Promise( (resolve, reject) => {
     resolve(devWebpackConfig);
 });
