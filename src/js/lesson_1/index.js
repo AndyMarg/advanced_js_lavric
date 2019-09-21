@@ -29,3 +29,4 @@ import parser from './intParser';
 for (let p of parser(5436789)) {
     console.log(p);
 }
+
