@@ -4,4 +4,5 @@ import "@babel/polyfill";
 // import './js/home_1';
 // import './js/lesson_2';
 // import './js/home_2';
-import './js/lesson_3';
+// import './js/lesson_3';
+import './js/home_3/main';

@@ -1,7 +1,7 @@
 {
-  "name": "webpacktemplate",
+  "name": "advanced_js_lavric",
   "version": "1.0.0",
-  "description": "My Template",
+  "description": "Learn advanced JS",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --open --config ./config/webpack.dev.conf.js",
